@@ -219,7 +219,9 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.copyright {}
+.attribution{
+    text-align: center
+}
 
 @media (min-width: 500px) {
 
@@ -458,7 +460,5 @@
         border-color: var(--Light-Pink);
         cursor: pointer;
     }
-
-    .copyright {}
 
 }
