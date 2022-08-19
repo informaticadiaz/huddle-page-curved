@@ -56,10 +56,6 @@ Learn Flexbox
 ```css
 Learn Grid
 ```
-```css
-Learn Grid
-start sass
-```
 ```SASS
 Start SASS? 
 ```
