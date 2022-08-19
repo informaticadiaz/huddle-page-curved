@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/informaticadiaz/huddle-page-curved)
-- Live Site URL: [Add live site URL here](https://informaticadiaz.github.io/huddle-page-curved/)
+- Solution URL: [here](https://github.com/informaticadiaz/huddle-page-curved)
+- Live Site URL: [here](https://informaticadiaz.github.io/huddle-page-curved/)
 
 
 ### Built with
